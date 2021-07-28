@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christopher Lee</h1>
 <h3 align="center">I am a Software Engineer that is always looking to learn and improve!</h3>
 
+<p>Current Achievments</p>
+<li>Graduated App Academy</li>
+<li>Current Software Engineer at Kepler</li>
 
+</br>
 <p>Current Goals</p>
 <li>Improve my Python</li>
 <li>Master data structures and algorithms</li>
