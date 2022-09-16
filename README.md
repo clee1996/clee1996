@@ -3,7 +3,7 @@
 
 <p>Current Achievments</p>
 <li>Graduated App Academy</li>
-<li>Current Software Engineer at Kepler</li>
+<li>Software Engineer</li>
 
 </br>
 <p>Current Goals</p>
